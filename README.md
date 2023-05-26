@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ghaitsa</h1>
 <h3 align="center">A passionate mobile developer from Cirebon</h3>
 
-<img align="right" alt="coding" width="1000" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
+<!-- <img align="right" alt="coding" width="1000" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif"> -->
+
+<iframe src="https://giphy.com/embed/CrFLL3CnRpw5ddlBMm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CleverCodeLab-cat-cute-coffee-CrFLL3CnRpw5ddlBMm">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghaitsa02&label=Profile%20views&color=0e75b6&style=flat" alt="ghaitsa02" /> </p>
 
