@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ghaitsa</h1>
 <h3 align="center">A passionate mobile developer from Cirebon</h3>
 
-<img align="right" alt="coding" width="300" src="https://gifdb.com/images/high/typing-cat-literally-me-daily-lbowaz5k068ljpcc.gif">
+<img align="right" alt="coding" width="250" src="https://gifdb.com/images/high/typing-cat-literally-me-daily-lbowaz5k068ljpcc.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghaitsa02&label=Profile%20views&color=0e75b6&style=flat" alt="ghaitsa02" /> </p>
 
