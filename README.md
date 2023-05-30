@@ -1,3 +1,4 @@
+![logo](https://github.com/prafful98/prafful98/blob/master/banner.png)
 <h1 align="center">Hi 👋, I'm Ghaitsa</h1>
 <h3 align="center">A passionate mobile developer from Cirebon</h3>
 
