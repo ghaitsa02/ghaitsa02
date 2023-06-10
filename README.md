@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **bangghaitsa@gmail.com**
 
+- ⚡ Fun fact **I thing I am funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ghaitsa-qm-0ab963245?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6TTnTUBLTTKIlctv4R3cnA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghaitsa-qm" height="30" width="40" /></a>
