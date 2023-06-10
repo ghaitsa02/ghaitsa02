@@ -1,6 +1,6 @@
 ![logo](https://github.com/prafful98/prafful98/blob/master/banner.png)
 <h1 align="center">Hi 👋, I'm Ghaitsa</h1>
-<h3 align="center">A passionate mobile developer from Cirebon</h3>
+<h3 align="center">A passionate mobile developer from Indonesia</h3>
 
 <img align="right" alt="coding" width="400" src="https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/21/1464342455-typing-cat-gif.gif">
 
